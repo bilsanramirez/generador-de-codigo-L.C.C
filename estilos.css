@@ -1,0 +1,11 @@
+.border-etiqueta {
+    border: 1px solid #666666;
+}
+
+.texto-grande {
+    font-size: 25px;
+}
+
+img {
+    border-radius: 50%;
+}
