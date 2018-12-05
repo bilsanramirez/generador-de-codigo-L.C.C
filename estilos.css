@@ -22,3 +22,7 @@ h1 {
   -moz-osx-font-smoothing: grayscale;
   -moz-text-size-adjust: none;
 }
+
+nav span {
+    color: #595959;
+}
